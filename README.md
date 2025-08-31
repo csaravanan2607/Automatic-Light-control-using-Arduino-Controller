@@ -63,6 +63,7 @@ LDR Features of LDR are as follows:
 
 
 ## PROGRAM:
+```
 int sensorPin = A0; // select the input pin for the LDR
 int sensorValue = 0; // variable to store the value coming from the sensor
 int led = 13;
@@ -86,7 +87,7 @@ Serial.println("LED light off");
 delay(1000);
 }
 }
-
+```
 ## CIRCUIT DIAGRAM:
 ![Screenshot 2025-04-26 210825](https://github.com/user-attachments/assets/7f8b6be7-b37a-4083-b5ad-33ce06c282bf)
 ## OUTPUT:
