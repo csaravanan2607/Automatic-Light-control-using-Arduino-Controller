@@ -1,4 +1,4 @@
-# Automatic Light Controller using LDR and Arduino UNO controller.
+# Automatic Light Controller using LDR and Arduino UNO controller
 
 ##  AIM :
 
@@ -93,8 +93,8 @@ void loop()
 ![Screenshot 2024-05-15 230203](https://github.com/Aadithya2201/Automatic-Light-control-using-Arduino-Controller/assets/145917810/93a41e15-b978-4abe-9009-d6b2d5d2cde4)
 
 ## OUTPUT :
-![Screenshot 2024-05-15 230215](https://github.com/Aadithya2201/Automatic-Light-control-using-Arduino-Controller/assets/145917810/d99e2d07-e661-47d2-b306-4b2c3fe41a79)
-![Screenshot 2024-05-15 230231](https://github.com/Aadithya2201/Automatic-Light-control-using-Arduino-Controller/assets/145917810/555e5c60-396e-4ef1-884c-db3379bc443b)
+<img width="1146" height="610" alt="1" src="https://github.com/user-attachments/assets/ede028e1-2fe3-4d05-8837-692cfc09d3f2" />
+<img width="1153" height="615" alt="2" src="https://github.com/user-attachments/assets/b5c22826-d7ee-4692-ba00-082777561335" />
 
 ## RESULT :
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
